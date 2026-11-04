@@ -1,1 +1,0 @@
-# KnAxion_wyzwanie
