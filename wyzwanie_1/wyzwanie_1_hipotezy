@@ -1,0 +1,11 @@
+Wybrany dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
+
+
+Hipoteza_1:
+Jeśli usuniemy #thal to accuracy spadnie o >10% (data leakage)
+Sposób sprawdzenia: Trenuję 2 razy model: 1 z kolmuną #thal a drugi raz bez kolumny i porównujemy accuracy i recall
+
+
+Hipoteza_2:
+Model będzie miał dużo lepszy (>5%) recall od accuracy
+Sposób sprawdzenia: Trenuję model na tym samym datasecie i porównuję accuracy i recall

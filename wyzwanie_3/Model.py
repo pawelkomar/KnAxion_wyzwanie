@@ -46,3 +46,5 @@ for i in range(len(roznice_bez_sin)):
         print (str(roznice_bez_sin[i]))
 print(str(licz))
 # różnica parameter_shift i parameter_shift_testowy_bez_sinusa jest większa od 0.00001 aż w +-1960 przypadkach na 2000 
+
+
